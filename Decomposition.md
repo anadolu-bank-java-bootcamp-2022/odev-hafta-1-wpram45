@@ -1,7 +1,7 @@
 ### Decomposition nedir?
 
--Decomposition(ayrışma) olarak da bilinen bilgisayar biliminde karmaşık bir problemi veya sistemi, kavranması, anlaşılması, programlanması ve bakımı daha kolay parçalara bölmektir.
--Karmaşık bir sorunu veya sistemi daha yönetilebilir ve anlaşılması daha kolay olan daha küçük parçalara ayırırız. Daha küçük parçalar daha sonra incelenebilir ve çözülebilir veya üzerinde çalışmak daha kolay olduğu için ayrı ayrı tasarlanabilir.
+Decomposition(ayrışma) olarak da bilinen bilgisayar biliminde karmaşık bir problemi veya sistemi, kavranması, anlaşılması, programlanması ve bakımı daha kolay parçalara bölmektir.
+Karmaşık bir sorunu veya sistemi daha yönetilebilir ve anlaşılması daha kolay olan daha küçük parçalara ayırırız. Daha küçük parçalar daha sonra incelenebilir ve çözülebilir veya üzerinde çalışmak daha kolay olduğu için ayrı ayrı tasarlanabilir.
 
 ## Decomposition neden vardır?
 
